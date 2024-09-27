@@ -1,0 +1,12 @@
+Primeira ida:
+
+Ligue um dos interruptores e aguarde alguns minutos.
+Desligue o interruptor ligado e ligue outro.
+Não toque no terceiro interruptor.
+Segunda ida:
+
+Ao entrar na sala das lâmpadas:
+
+A lâmpada que estiver quente corresponde ao interruptor que você ligou e desligou na primeira ida.
+A lâmpada que estiver fria, mas acesa, corresponde ao interruptor que você ligou e deixou ligado.
+A lâmpada que estiver fria e apagada corresponde ao interruptor que você não tocou.
